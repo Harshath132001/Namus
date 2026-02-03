@@ -34,11 +34,15 @@ Clone the repository:
 git clone https://github.com/Harshath132001/Namus.git
 cd Namus
 
-Install dependencies:
+---
+
+## Install dependencies:
 
 pip install -r requirements.txt
 
-▶️ Usage
+---
+
+## ▶️ Usage
 
 Run scraper with CLI arguments:
 
@@ -61,13 +65,17 @@ Example JSON entry:
   "image_file": "output/Texas_images/case_1.jpg"
 }
 
-⚠️ Disclaimer
+---
+
+## ⚠️ Disclaimer
 
 This project is intended strictly for educational and research purposes.
 
 It only collects publicly available information and must not be used for unlawful, unethical, or privacy-violating activities.
 
-👤 Author
+---
+
+## 👤 Author
 
 Harshath EM
 MS Cybersecurity Student | CompTIA Security+ Certified
