@@ -1,5 +1,5 @@
 import argparse
-from core_scraper import scrape_state
+from src.core_scraper import scrape_state
 
 
 def main():
