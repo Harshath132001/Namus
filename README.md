@@ -30,7 +30,7 @@ It was originally developed during my internship at **Paradigm Intelligence** to
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/Harshath132001/Namus.git
 cd Namus
 
